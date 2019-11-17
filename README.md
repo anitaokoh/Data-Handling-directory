@@ -6,6 +6,6 @@ This Directory includes all the resources and article link used in   Data handli
 
 **The Second Series**  highlighted 6 imputation methods when handling missing values in your dataset.Some of the methods are mean imputation, random sampling, missing indicator etc. This series is accompanied with the jupyter notebook above named [_missing values](https://github.com/anitaokoh/Data-Handling-directory/blob/master/missing_values.ipynb)_. Here is a visual of the dataset ![used](https://github.com/anitaokoh/Data-Handling-directory/blob/master/1.png)
 
-And the rest of the visual used in this series can be found in this [link](https://www.canva.com/design/DADpqaxZ-L8/share/preview?token=yH2y4Tj7DRha-KUjUhns1Q&role=EDITOR&utm_content=DADpqaxZ-L8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton). Check out the link to the article here as well
+And the rest of the visual used in this series can be found in this [link](https://www.canva.com/design/DADpqaxZ-L8/share/preview?token=yH2y4Tj7DRha-KUjUhns1Q&role=EDITOR&utm_content=DADpqaxZ-L8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton). Check out the link to the article [here](https://heartbeat.fritz.ai/data-handling-scenarios-part-2-working-with-missing-values-in-a-dataset-34b758cfc9fa)
 
 
